@@ -1,3 +1,4 @@
+// Data file for testing.
 let invoices = [
     {
       name: "Santa Monica",
